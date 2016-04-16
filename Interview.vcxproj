@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Atoi.cpp" />
     <ClCompile Include="IsAnagram.cpp" />
     <ClCompile Include="LengthAndReverse.cpp" />
     <ClCompile Include="Permutations.cpp" />
